@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcschambers
-- 👀 I’m interested in learning how to use Git and GitHub.
-- 🌱 I’m currently learning one thing at a time.
+- 👀 I’m learning Git and GitHub.
+- 🌱 I’m currently walking through learning one thing at a time.
 - 💞️ I’m looking to collaborate on testing features with my team.
 
 <!---
